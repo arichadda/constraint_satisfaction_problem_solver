@@ -1,0 +1,7 @@
+A:B,C
+B:A,C,D
+C:A,B,D,E,F
+D:B,C,E
+E:C,D,F
+F:E,C
+\RED,GREEN,BLUE
