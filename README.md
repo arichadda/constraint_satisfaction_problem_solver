@@ -1,4 +1,4 @@
-# README.md
+# README.md for CSP Solver
 
 To run the CSP solver there are two options for problems. 
 
@@ -20,7 +20,6 @@ least_constraining=False,
 arc_consistency=False, 
 is_map_problem=True, 
 is_board_problem=False
-
 ```
 
 To test the two programs run either 	`color_map.py` or `set_board.py` respectively and make sure that the appropriate flag is checked to `True`. Either `is_map_problem` or `is_board_problem` must be True. 
